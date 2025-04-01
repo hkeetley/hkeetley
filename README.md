@@ -23,10 +23,10 @@ to a traditional SEIR model, a model that first partitions S seasons into K clus
 which improves upon traditional hierarchical models by using a basis expansion for the spatial random effects.
 - Tutorial was created utilizing RMarkdown and LaTeX.
 - Link to tutorial: https://hkeetley.github.io/BSFTutorial/
-3. Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer Center
+3. Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer Center:
 - Analyzed the prevalence of oncologists receiving pharmaceutical payments for competing drugs by processing and synthesizing large government datasets (~60,000 rows) in R, the results of which were used to draw conclusions on the impact of health policy on treatment outcomes.
 - Wrote and prepared a scientific manuscript for publication.
-4. Department of Biostatistics, The Mayo Clinic
+4. Department of Biostatistics, The Mayo Clinic:
 - Analyzed the effectiveness of a preoperative clinic in reducing addiction. The hypothesis for this work was that patients who attended this clinic prior to surgery would have lower levels of addiction 1 year post surgery.
 - Models and analysis were trained on a dataset that included self-reported addiction status 3, 6, 9, and 12 months post-surgery. Analysis methods included propensity score matching, missing data analysis techniques, time series analysis, and logistic regression.
 - Data cleaning, missing data analysis, data analysis, and data visualization were performed using R and SAS.
